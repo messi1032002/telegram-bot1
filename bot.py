@@ -58,3 +58,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+TOKEN = "7842334275:AAEa1NE1nMkh7TwwA6GbXQFichhvkWnn1_0"
+ADMIN_ID = 1895570058
